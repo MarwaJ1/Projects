@@ -23,9 +23,6 @@ def get_radius(v, object, h=0):
 
 # Testing 
 print(get_radius(7000000000, "cylinder", 2))
-print(get_radius(8.38, "cone", 2))
-print(get_radius(67, "globe"))
-
-
+print(get_radius())
     
 
