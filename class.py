@@ -54,11 +54,7 @@ class LinkedList:
                 if current_node.get_link_node().get_value() == value_to_remove: 
                     current_node.set_link_node(current_node.get_link_node())
                     current_node = None
-
         
-        
-
-
 
 
     
